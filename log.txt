@@ -1,0 +1,21 @@
+V1 - criação do projeto             -- git commit -m "Criação do sistema"
+V2 - adicionamos h1 na tag "header" -- git commit -m "feat: add tag h1"
+V3 - corrigindo erro 
+
+-----------------------------------==----------------------------------------
+
+V1 - criação do sistema  -- git commit -m "Criação do sistema"
+V2 - add mudança -- git commit -m "Primeira versão"
+V3 - git push origin backup
+V4 - PULL REQUEST
+V5 - add mudança -- git commit -m "Segunda  versão"
+V6 - git push origin backup
+V7 - PULL REQUEST
+V8 - add mudança -- git commit -m "Terceira versão"
+V9 - git push origin backup
+V10 - PULL REQUEST
+V11 - add mudança -- git commit -m "Resolução de conflito"
+V12 - git push origin backup
+V13 - PULL REQUEST
+V14 - testes -- git commit -m "Teste de sistema"
+V15 - git push origin main
